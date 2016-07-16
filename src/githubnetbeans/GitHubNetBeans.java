@@ -16,6 +16,7 @@ public class GitHubNetBeans {
      */
     public static void main(String[] args) {
         System.out.println("Hello World @ GitHub");
+        System.out.println("New line added");
     }
     
 }
